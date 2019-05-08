@@ -1,4 +1,4 @@
-
+﻿
 package ejercicio.pkg4.tp.pkg3;
 
 /**
@@ -14,7 +14,7 @@ public class Ejercicio4TP3 {
         // TODO code application logic here
         ListaReproduccion lista = new ListaReproduccion();
 
-// Creamos 10 canciones
+// Creamos 10 canciones en la lista
         Cancion cancion1 = new Cancion("Cancion 1", "Autor 1");
         Cancion cancion2 = new Cancion("Cancion 2", "Autor 2");
         Cancion cancion3 = new Cancion("Cancion 3", "Autor 3");
