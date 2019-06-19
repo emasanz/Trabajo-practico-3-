@@ -5,6 +5,8 @@
  */
 package Estacion;
 
+import java.util.Date;
+
 /**
  *
  * @author agus
@@ -12,4 +14,5 @@ package Estacion;
 public class Radio {
     private String nombre;
     private String direccion;
+    private Date horarios;
 }
